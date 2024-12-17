@@ -15,7 +15,7 @@ This repository provides **clear and concise documentation** on various Git topi
    - 📌 **Basic Git Commands**: Learn the essentials—initialize repositories, stage, commit, and push changes.
    - 📜 **Viewing Commit History**: Explore commit logs with simple and customizable commands.
 
-3. 🚧 **Git Intermediate** - _coming soon_:
+3. 🚧 [**Git Intermediate**](git-intermediate.md):
    - 🌿 **Branching and Merging**: Master creating, switching, and merging branches.
    - 🔗 **Working with Remotes**: Understand fetch, pull, push, and remote repository setups.
    - ⚔️ **Resolving Merge Conflicts**: Step-by-step solutions to manage conflicts effectively.
