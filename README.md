@@ -20,7 +20,7 @@ This repository provides **clear and concise documentation** on various Git topi
    - 🔗 **Working with Remotes**: Understand fetch, pull, push, and remote repository setups.
    - ⚔️ **Resolving Merge Conflicts**: Step-by-step solutions to manage conflicts effectively.
 
-4. 🧠 **Git Advanced** - _coming soon_:
+4. 🧠 [**Git Advanced**](git-advanced.md):
    - 📦 **Stashing Changes**: Temporarily save work in progress to focus on another task.
    - 🔄 **Reverting and Resetting Commits**: Safely undo changes with `git reset` and `git revert`.
    - 🔀 **Rebasing**: Streamline your commit history and apply changes on a new base.
