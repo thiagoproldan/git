@@ -25,7 +25,7 @@ This repository provides **clear and concise documentation** on various Git topi
    - 🔄 **Reverting and Resetting Commits**: Safely undo changes with `git reset` and `git revert`.
    - 🔀 **Rebasing**: Streamline your commit history and apply changes on a new base.
 
-5. 🌐 **Git Flow vs Trunk-Based Development** - _coming soon_:
+5. 🌐 [**Git Flow vs Trunk-Based Development**](git-flow-vs-trunk.md):
    - ⚖️ Compare **Git Flow** and **Trunk-Based Development** for team workflows.
    - ➕ **Pros and Cons** of each methodology.
    - 📝 **Tips** for implementing these strategies effectively.
